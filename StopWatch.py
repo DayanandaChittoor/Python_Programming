@@ -3,7 +3,7 @@
 @Date: 2021-10-11 
 @Time:  18:00:00
 @Last Modified by: Dayananda C
-@Title : Coupon Number
+@Title : StopWatch program
 '''
 
 import time 
